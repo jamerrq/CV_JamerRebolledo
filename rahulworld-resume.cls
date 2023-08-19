@@ -34,6 +34,8 @@
 \setmainfont[Color=primary, Path = fonts/FiraSans/]{FiraSans-Regular}
 \setsansfont[Scale=MatchLowercase,Mapping=tex-text, Path = fonts/FiraSans/]{FiraSans-Regular}
 \newcommand{\custombold}[1]{\color{subheadings}\fontspec[Path = fonts/FiraSans/]{FiraSans-Bold}\selectfont #1 \normalfont}
+\newcommand{\customit}[1]
+{\color{subheadings}\fontspec[Path = fonts/FiraSans/]{FiraSans-Italic}\selectfont #1 \normalfont}
 
 
 % Header command
