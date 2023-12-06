@@ -1,15 +1,6 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Original author:
-% Rahul Chauhan (http://rahulchauhan.net)
-%
-% Original repository:
-% https://github.com/rahulworld/rahulworld-Resume
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-
 \documentclass[]{rahulworld-resume}
 \usepackage{hyperref}
+\usepackage{ragged2e}
 \begin{document}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -18,25 +9,43 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\begin{minipage}[t]{1\textwidth}
+    \RaggedRight
+    \begin{large}
+        \headername{Jamer José Rebolledo Quiroz}
+    \end{large}\\
+\textsc{Full Stack Web Developer/Backend Developer}
+
+% \descript{BS in Computer ence}
+
+\end{minipage}
+
 \begin{minipage}[t]{0.33\textwidth}
-\begin{large}
-	\headername{Jamer José Rebolledo Quiroz}
-\\
-\end{large}
-Mathematical Engineer\\
-at EAFIT University\\
-\textsc{Full Stack Web Developer.}
+%\begin{large}
+%    \headername{Jamer José\\ Rebolledo Quiroz}
+%\end{large}\\
+%\textsc{Full Stack Web Developer.}
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     LINKS
+% \descript{BS in Computer ence}
+%\hspace*{0pt}\hfill    \\
+%\hspace*{0pt}\hfill    \\
+%\hspace*{0pt}\hfill Medellin, Colombia\\
+%\hspace*{0pt}\hfill Mob.: +57-3008163841 \\
+%\hspace*{0pt}\hfill Email: \textit{\href{mailto:janerrq@gmail.com}{jamerrq@gmail.com}}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Links}
+\vspace{5pt}
+\section{Contact}
 \noindent\rule{5cm}{0.4pt}
 
+Mob.: \href{https://wa.me/573008163841}{\custombold{+57 300 816 3841}}\\
+Email: \textit{\href{mailto:janerrq@gmail.com}{\custombold{jamerrq@gmail.com}}}\\
 Github: \href{https://github.com/jamerrq}{\custombold{jamerrq}} \\
 LinkedIn: \href{https://www.linkedin.com/in/jamerrq}{\custombold{jamerrq}} \\
-Portfolio: \href{https://my-portfolio-jamerrq.netlify.app/}{\custombold{My Portfolio}}
+Portfolio: \href{https://jamerrq-com.vercel.app/}{\custombold{Personal Website}}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -100,17 +109,17 @@ Academia Henry
 \hfill
 \begin{minipage}[t]{0.66\textwidth}
 % \descript{BS in Computer ence}
-\hspace*{0pt}\hfill    \\
-\hspace*{0pt}\hfill    \\
-\hspace*{0pt}\hfill Medellin, Colombia\\
-\hspace*{0pt}\hfill Mob.: +57-3008163841 \\
-\hspace*{0pt}\hfill Email: \textit{\href{mailto:janerrq@gmail.com}{jamerrq@gmail.com}}
+%\hspace*{0pt}\hfill    \\
+%\hspace*{0pt}\hfill    \\
+%\hspace*{0pt}\hfill Medellin, Colombia\\
+%\hspace*{0pt}\hfill Mob.: +57-3008163841 \\
+%\hspace*{0pt}\hfill Email: \textit{\href{mailto:janerrq@gmail.com}{jamerrq@gmail.com}}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXPERIENCE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Experience in Industry}
-\noindent\rule{12.5cm}{0.4pt}
-\customit{2 years of ML Engineer and data science experience}\\
+\vspace{5pt}
+\section{Experience}
+
 \noindent\rule{12.5cm}{0.4pt}
 
 \datecolor{2022-2022}\runsubsection{\custombold{Comfama - Universidad EAFIT}}
@@ -165,7 +174,7 @@ The projects that I have been working on are related to courses such as optimiza
 \section{Awards / Honors}
 
 \begin{itemize}
-    \item \custombold{2017-2022}: Government scholarship granted by the
+    \item \custombold{2017}: Government scholarship granted by the
     Colombian Ministry of Education to the best students in
     the national exams.
     \item \custombold{2020}: Assisted to the first Facebook Hackathon in Colombia,
@@ -175,15 +184,13 @@ The projects that I have been working on are related to courses such as optimiza
 \section{Projects}
 
 \begin{itemize}
-    \item \href{https://github.com/PF-Ide-Pintureria/pinturas-app-back}{\custombold{Backend server for IDE Pinturerías.}} It allows the management of products, clients, orders, while also providing a REST API for the frontend to consume. This project was made using Node.js, Express.js, and PostgreSQL with Sequelize.
+    \item \href{https://github.com/Ide-Pinturerias/pinturas-app-back}{\custombold{Backend server for IDE Pinturerías (Sep-Aug 2023).}} NodeJS server. It allows the management of products, clients, orders, while also providing a REST API for the frontend to consume. This project was made using Node.js, Express.js, and PostgreSQL with Sequelize.
 
-    \item \href{https://github.com/jamerrq/wks-typescript}{\custombold{TypeScript Fullstack Web App.}} Fullstack web app created with the purpose of learning TypeScript. It allows the user to search and interact with a list of random users fetched form the Random user generator API giving options to filter and sort by some fields.
+    \item \href{https://github.com/jamerrq/wks-typescript}{\custombold{TypeScript Fullstack Web App (Aug 2023).}} Fullstack web app created with the purpose of learning TypeScript. It allows the user to search and interact with a list of random users fetched form the Random user generator API giving options to filter and sort by some fields.  
 
-  
+    \item \href{https://github.com/jamerrq/resources-app}{\custombold{Resources App (Aug 2023).}} A collection of resources for web full stack development. Built with Next.js and Typescript.
 
-    \item \href{https://github.com/jamerrq/resources-app}{\custombold{Resources App.}} A collection of resources for web full stack development. Built with Next.js and Typescript.
-
-    \item More projects \href{https://my-portfolio-jamerrq.netlify.app/#projects}{\custombold{here}}
+    \item More projects \href{https://jamerrq-com.vercel.app/projects}{\custombold{here}}
 
 \end{itemize}
 
