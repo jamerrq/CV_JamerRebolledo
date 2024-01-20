@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2023.9.6)  6 DEC 2023 16:00
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2023.9.6)  20 JAN 2024 12:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -614,29 +614,29 @@ Package fontspec Info: Font family 'FiraSans-Bold(0)' created for font
 
 
 LaTeX Font Warning: Font shape `TU/FiraSans-Semibold(0)/b/n' undefined
-(Font)              using `TU/FiraSans-Semibold(0)/m/n' instead on input line 39.
+(Font)              using `TU/FiraSans-Semibold(0)/m/n' instead on input line 38.
 
 
 LaTeX Font Warning: Font shape `TU/FiraSans-Regular(0)/m/it' undefined
-(Font)              using `TU/FiraSans-Regular(0)/m/n' instead on input line 41.
+(Font)              using `TU/FiraSans-Regular(0)/m/n' instead on input line 40.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--59
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
 
  []
 
 
 LaTeX Font Warning: Font shape `TU/FiraSans-Semibold(0)/m/sc' undefined
-(Font)              using `TU/FiraSans-Semibold(0)/m/n' instead on input line 77.
+(Font)              using `TU/FiraSans-Semibold(0)/m/n' instead on input line 76.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 79.
+(hyperref)                removing `\\' on input line 78.
 
 
 Package fontspec Info: Font family 'FiraSans-Italic(0)' created for font
@@ -651,7 +651,7 @@ Package fontspec Info: Font family 'FiraSans-Italic(0)' created for font
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--107
+Underfull \hbox (badness 10000) in paragraph at lines 104--106
 []
  []
 
@@ -669,58 +669,58 @@ Package fontspec Info: Font family 'FiraSans-Regular(2)' created for font
 
 
 LaTeX Font Warning: Font shape `TU/FiraSans-Regular(2)/b/n' undefined
-(Font)              using `TU/FiraSans-Regular(2)/m/n' instead on input line 108.
+(Font)              using `TU/FiraSans-Regular(2)/m/n' instead on input line 107.
 
 
 LaTeX Font Warning: Font shape `TU/FiraSans-Bold(0)/b/n' undefined
-(Font)              using `TU/FiraSans-Bold(0)/m/n' instead on input line 108.
+(Font)              using `TU/FiraSans-Bold(0)/m/n' instead on input line 107.
 
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 116.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 115.
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 116.
+(Font)              size <5> substituted on input line 115.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 116.
+(Font)              size <5> substituted on input line 115.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 116.
+(Font)              size <5> substituted on input line 115.
 
 
-Overfull \hbox (1.22873pt too wide) in paragraph at lines 110--117
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 109--116
  $[]$  
  []
 
 
-Overfull \hbox (1.22873pt too wide) in paragraph at lines 120--129
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 119--128
  $[]$  
  []
 
 
-Overfull \hbox (1.22873pt too wide) in paragraph at lines 132--139
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 131--138
  $[]$ 
  []
 
 
-Overfull \hbox (1.22873pt too wide) in paragraph at lines 143--153
+Overfull \hbox (1.22873pt too wide) in paragraph at lines 142--152
  $[]$ 
  []
 
 
-Overfull \hbox (11.33801pt too wide) in paragraph at lines 14--206
+Overfull \hbox (11.33801pt too wide) in paragraph at lines 14--205
 [][]  [] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 208.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 207.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 208.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 207.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 208.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 208.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 207.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 207.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 26313C9F7C6FDBF053CD5F22022BBB21;890.
 
@@ -731,7 +731,7 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 208.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 207.
  ) 
 Here is how much of TeX's memory you used:
  17184 strings out of 481722
